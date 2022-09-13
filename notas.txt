@@ -1,0 +1,6 @@
+manifest: 
+
+    short_name = nombre que aparece abajo del icono de la app
+    background_color = color de el fondo donde esta la startup image
+    theme_color = color principal
+    display = oculta la barra de direccion si es standalone
